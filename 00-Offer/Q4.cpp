@@ -14,22 +14,22 @@
 #include <vector>
 using namespace std;
 
-class Solution {
-public:
-    vector<int> maxInWindows(const vector<int>& num, unsigned int size)
-    {
-    	vector<int> res;
-    	deque<int> s;
-    	for(int i = 0; i < num.size(); i++) {
-    		while(s.size() && numb[s.back()] <= num[i])
-    			s.pop_back();
-    		while(s.size() && i-s.front()+1 > size) // check the first ele in deque is in the window
-    			s.pop_front();
-    		s.push_back(i) 
-    	}
+// class Solution {
+// public:
+//     vector<int> maxInWindows(const vector<int>& num, unsigned int size)
+//     {
+//     	vector<int> res;
+//     	deque<int> s;
+//     	for(int i = 0; i < num.size(); i++) {
+//     		while(s.size() && numb[s.back()] <= num[i])
+//     			s.pop_back();
+//     		while(s.size() && i-s.front()+1 > size) // check the first ele in deque is in the window
+//     			s.pop_front();
+//     		s.push_back(i) 
+//     	}
         
-    }
-};
+//     }
+// };
 
 
 
