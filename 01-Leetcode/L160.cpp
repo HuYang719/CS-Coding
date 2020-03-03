@@ -7,6 +7,7 @@
  * 不是方法不要带括号
  * error1:没有考虑最后没有重叠的情况
  * error2:比较的是指针本身是否一致好吗？？？
+ * error3:不要忘了nullptr的特殊情况
  */
 
 /**
@@ -22,6 +23,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+// method 1
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
@@ -51,6 +54,48 @@ public:
         else
             return pA;
         
+    }
+};
+
+
+//method 2
+class Solution {
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if(headA == nullptr || headB == nullptr)
+            return nullptr;
+        
+        ListNode *pA = headA;
+        ListNode *pB = headB;
+        int lenA = 0;
+        int lenB = 0;
+        
+        while(pA->next != nullptr) {
+            lenA++;
+            pA = pA->next;
+        }
+        
+         while(pB->next != nullptr) {
+            lenB++;
+            pB = pB->next;
+        }
+        pA = headA;
+        pB = headB;
+        int diff = abs(lenA - lenB);
+        if(lenA > lenB) {
+            while(diff--)
+                pA = pA->next;
+        } else if (lenB > lenA) {
+            while(diff--)
+                pB = pB->next;
+        }
+        
+        while(pA != pB) {
+            pA = pA->next;
+            pB = pB->next;
+        } // 最后在nullptr处相遇
+        
+        return pA;
     }
 };
 
