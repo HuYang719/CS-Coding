@@ -77,8 +77,10 @@ Binary Tree Zigzag Level Order Traversal    		45.3%	Medium
 ~~206  Reverse Linked List    		59.8%	Easy~~
 note 206: 和标准做法还不太一样，复习的时候用交换的方式做
 
-53	
-Maximum Subarray    		45.7%	Easy	
+	
+~~53     Maximum Subarray    		45.7%	Easy~~
+note 53: 没有一开始想到方法，和dp的思想有点像，需要及时复习	
+
 347	
 Top K Frequent Elements    		59.0%	Medium	
 695	
