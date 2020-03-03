@@ -102,16 +102,24 @@ Find Median from Data Stream    		41.3%	Hard
 10	
 Regular Expression Matching    		26.2%	Hard	
 	
-~~83 Remove Duplicates from Sorted List    		44.3%	Easy~~	
+~~83 Remove Duplicates from Sorted List    		44.3%	Easy~~
+
+note 83:注意一个末尾小的细节
+
 124	
 Binary Tree Maximum Path Sum    		32.3%	Hard	
 152	
 Maximum Product Subarray    		30.8%	Medium	
-167	
-Two Sum II - Input array is sorted    		52.7%	Easy	
-543	
-Diameter of Binary Tree     		48.2%	Easy	
-198	
-House Robber    		41.6%	Easy	
-104	
-Maximum Depth of Binary Tree    		64.1%	Easy	
+
+	
+~~167 Two Sum II - Input array is sorted    		52.7%	Easy~~
+
+
+**543	 Diameter of Binary Tree     		48.2%	Easy**	
+note 543: 树还是不熟练，要重点复习
+
+~~198	 House Robber    		41.6%	Easy~~
+note: 采用 dp的方法做的	
+
+~~104	 Maximum Depth of Binary Tree    		64.1%	Easy~~	
+note 104: 和543思想一样
