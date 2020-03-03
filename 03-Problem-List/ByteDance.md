@@ -87,14 +87,15 @@ Top K Frequent Elements    		59.0%	Medium
 Max Area of Island    		60.5%	Medium	
 72	
 Edit Distance    		41.3%	Hard	
-232	
-Implement Queue using Stacks    		47.1%	Easy	
+
+232	 Implement Queue using Stacks    		47.1%	Easy	
 209	
 Minimum Size Subarray Sum    		36.7%	Medium	
 15	
 3Sum    		25.7%	Medium	
-415	
-Add Strings    		46.0%	Easy	
+	
+~~415	Add Strings    		46.0%	Easy~~
+	
 295	
 Find Median from Data Stream    		41.3%	Hard	
 10	
