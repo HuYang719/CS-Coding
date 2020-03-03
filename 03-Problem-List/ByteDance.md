@@ -59,6 +59,7 @@ First Missing Positive    		30.8%	Hard
 
 	
  ~~21   Merge Two Sorted Lists    		51.4%	Easy~~	
+ note 21:注意一下新建一个ListNode写法
 
 958	
 Check Completeness of a Binary Tree    		51.2%	Medium	
@@ -72,8 +73,10 @@ Binary Tree Vertical Order Traversal    		43.3%	Medium
 Two Sum    		45.1%	Easy	
 103	
 Binary Tree Zigzag Level Order Traversal    		45.3%	Medium	
-206	
-Reverse Linked List    		59.8%	Easy	
+	
+~~206  Reverse Linked List    		59.8%	Easy~~
+note 206: 和标准做法还不太一样，复习的时候用交换的方式做
+
 53	
 Maximum Subarray    		45.7%	Easy	
 347	
