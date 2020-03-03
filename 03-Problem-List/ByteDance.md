@@ -95,13 +95,14 @@ Minimum Size Subarray Sum    		36.7%	Medium
 3Sum    		25.7%	Medium	
 	
 ~~415	Add Strings    		46.0%	Easy~~
-	
+note 415: WA了一次，值得注意
+
 295	
 Find Median from Data Stream    		41.3%	Hard	
 10	
 Regular Expression Matching    		26.2%	Hard	
-83	
-Remove Duplicates from Sorted List    		44.3%	Easy	
+	
+~~83 Remove Duplicates from Sorted List    		44.3%	Easy~~	
 124	
 Binary Tree Maximum Path Sum    		32.3%	Hard	
 152	
