@@ -44,6 +44,7 @@ Container With Most Water    		49.0%	Medium
 
 
  ~~160	Intersection of Two Linked Lists    37.9%	Easy~~
+ note 160: 需要注意一下两种解题方法以及List的用法
 
 2	
 Add Two Numbers    		32.8%	Medium	
