@@ -56,8 +56,10 @@ Longest Substring Without Repeating Characters    		29.6%	Medium
 Binary Tree Right Side View    		51.7%	Medium	
 41	
 First Missing Positive    		30.8%	Hard	
-21	
-Merge Two Sorted Lists    		51.4%	Easy	
+
+	
+ ~~21   Merge Two Sorted Lists    		51.4%	Easy~~	
+
 958	
 Check Completeness of a Binary Tree    		51.2%	Medium	
 286	
