@@ -4,6 +4,7 @@ K-th Smallest in Lexicographical Order    		27.9%	Hard
 
 	
 ~~1262 Greatest Sum Divisible by Three    		43.7%	Medium~~
+
 note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可想出
 
 42	
@@ -47,6 +48,7 @@ Container With Most Water    		49.0%	Medium
 
 
  ~~160	Intersection of Two Linked Lists    37.9%	Easy~~
+
  note 160: 需要注意一下两种解题方法以及List的用法
 
 2	
@@ -62,6 +64,7 @@ First Missing Positive    		30.8%	Hard
 
 	
  ~~21   Merge Two Sorted Lists    		51.4%	Easy~~	
+
  note 21:注意一下新建一个ListNode写法
 
 958	
@@ -78,10 +81,12 @@ Two Sum    		45.1%	Easy
 Binary Tree Zigzag Level Order Traversal    		45.3%	Medium	
 	
 ~~206  Reverse Linked List    		59.8%	Easy~~
+
 note 206: 和标准做法还不太一样，复习的时候用交换的方式做
 
 	
 ~~53     Maximum Subarray    		45.7%	Easy~~
+
 note 53: 没有一开始想到方法，和dp的思想有点像，需要及时复习	
 
 347	
@@ -92,6 +97,7 @@ Max Area of Island    		60.5%	Medium
 Edit Distance    		41.3%	Hard	
 
 ~~232	 Implement Queue using Stacks    		47.1%	Easy~~
+
 note 232: 采用了两个stack，第二个用于调整顺序
 
 209	
@@ -100,6 +106,7 @@ Minimum Size Subarray Sum    		36.7%	Medium
 3Sum    		25.7%	Medium	
 	
 ~~415	Add Strings    		46.0%	Easy~~
+
 note 415: WA了一次，值得注意
 
 295	
@@ -121,10 +128,13 @@ Maximum Product Subarray    		30.8%	Medium
 
 
 **543	 Diameter of Binary Tree     		48.2%	Easy**	
+
 note 543: 树还是不熟练，要重点复习
 
 ~~198	 House Robber    		41.6%	Easy~~
+
 note: 采用 dp的方法做的	
 
 ~~104	 Maximum Depth of Binary Tree    		64.1%	Easy~~	
+
 note 104: 和543思想一样
