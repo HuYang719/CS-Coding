@@ -1,8 +1,11 @@
 Title	Solution	Acceptance	Difficulty	Frequency  
 440	
 K-th Smallest in Lexicographical Order    		27.9%	Hard
-1262	
-Greatest Sum Divisible by Three    		43.7%	Medium	
+
+	
+~~1262 Greatest Sum Divisible by Three    		43.7%	Medium~~
+note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可想出
+
 42	
 Trapping Rain Water    		46.9%	Hard	
 1202	
@@ -90,7 +93,7 @@ Edit Distance    		41.3%	Hard
 
 ~~232	 Implement Queue using Stacks    		47.1%	Easy~~
 note 232: 采用了两个stack，第二个用于调整顺序
-	
+
 209	
 Minimum Size Subarray Sum    		36.7%	Medium	
 15	
