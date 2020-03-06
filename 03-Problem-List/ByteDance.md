@@ -13,8 +13,10 @@ Trapping Rain Water    		46.9%	Hard
 Smallest String With Swaps    		43.9%	Medium	
 25	
 Reverse Nodes in k-Group    		39.6%	Hard	
-146	
-LRU Cache    		30.0%	Medium	
+
+~~146	LRU Cache    		30.0%	Medium~~
+**note 146: 这题不太会，后面重点复习反复做**
+
 470	
 Implement Rand10() Using Rand7()    		46.0%	Medium	
 1057	
@@ -95,6 +97,7 @@ Top K Frequent Elements    		59.0%	Medium
 ~~695	Max Area of Island    		60.5%	Medium~~
 
 **note 695: 要重点复习DFS这类题目**	
+
 72	
 Edit Distance    		41.3%	Hard	
 
