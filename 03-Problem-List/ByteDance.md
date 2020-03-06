@@ -88,7 +88,9 @@ Max Area of Island    		60.5%	Medium
 72	
 Edit Distance    		41.3%	Hard	
 
-232	 Implement Queue using Stacks    		47.1%	Easy	
+~~232	 Implement Queue using Stacks    		47.1%	Easy~~
+note 232: 采用了两个stack，第二个用于调整顺序
+	
 209	
 Minimum Size Subarray Sum    		36.7%	Medium	
 15	
