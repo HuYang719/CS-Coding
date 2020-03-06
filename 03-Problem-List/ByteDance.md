@@ -39,8 +39,11 @@ Search in Rotated Sorted Array    		33.6%	Medium
 Simplify Path     		31.1%	Medium	
 23	
 Merge k Sorted Lists    		38.3%	Hard	
-143	
-Reorder List    		34.4%	Medium	
+
+~~143	Reorder List    		34.4%	Medium~~
+
+note 143: 自己只做出了O(N^2)的做法，非最优解,**需要重新写几遍最优解法**
+
 215	
 Kth Largest Element in an Array    		52.5%	Medium	
 54	
@@ -125,8 +128,10 @@ note 83:注意一个末尾小的细节
 
 124	
 Binary Tree Maximum Path Sum    		32.3%	Hard	
-152	
-Maximum Product Subarray    		30.8%	Medium	
+
+152	Maximum Product Subarray    		30.8%	Medium	
+
+**note 152: 很特别的DP题，不是特别理解还**
 
 	
 ~~167 Two Sum II - Input array is sorted    		52.7%	Easy~~
