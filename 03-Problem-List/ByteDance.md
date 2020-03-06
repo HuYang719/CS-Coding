@@ -91,8 +91,10 @@ note 53: 没有一开始想到方法，和dp的思想有点像，需要及时复
 
 347	
 Top K Frequent Elements    		59.0%	Medium	
-695	
-Max Area of Island    		60.5%	Medium	
+
+~~695	Max Area of Island    		60.5%	Medium~~
+
+**note 695: 要重点复习DFS这类题目**	
 72	
 Edit Distance    		41.3%	Hard	
 
@@ -127,9 +129,9 @@ Maximum Product Subarray    		30.8%	Medium
 ~~167 Two Sum II - Input array is sorted    		52.7%	Easy~~
 
 
-**543	 Diameter of Binary Tree     		48.2%	Easy**	
+~~543	 Diameter of Binary Tree     		48.2%	Easy~~	
 
-note 543: 树还是不熟练，要重点复习
+**note 543: 树还是不熟练，要重点复习**	
 
 ~~198	 House Robber    		41.6%	Easy~~
 
