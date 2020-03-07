@@ -89,7 +89,9 @@ note 143: 自己只做出了O(N^2)的做法，非最优解,**需要重新写几�
 
 
 
-199	Binary Tree Right Side View    		51.7%	Medium	
+~~199	Binary Tree Right Side View    		51.7%	Medium~~
+
+note 199: 自己写出来了
 
 
 	
