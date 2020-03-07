@@ -25,6 +25,7 @@ note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可�
 
 	
 1057 Campus Bikes    		58.3%	Medium	
+note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
 670	 Maximum Swap    		41.7%	Medium	
@@ -120,7 +121,9 @@ note 314: **需要重新复习，Level1** (hint:采用map<int,vector<int>>和que
 
 
 
-103	Binary Tree Zigzag Level Order Traversal    		45.3%	Medium	
+~~103	Binary Tree Zigzag Level Order Traversal    		45.3%	Medium~~
+
+note 103: **用的bfs，没写最优解，复习时重新过一遍**
 	
 ~~206  Reverse Linked List    		59.8%	Easy~~
 
