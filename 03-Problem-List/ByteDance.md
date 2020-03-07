@@ -78,8 +78,10 @@ Check Completeness of a Binary Tree    		51.2%	Medium
 Walls and Gates    		52.3%	Medium	
 79	
 Word Search    		33.7%	Medium	
-314	
-Binary Tree Vertical Order Traversal    		43.3%	Medium	
+
+~~314	Binary Tree Vertical Order Traversal    		43.3%	Medium~~
+
+note 314: **需要重新复习，Level1** (hint:采用map<int,vector<int>>和queue<pair<int, TreeNode*>>+bfs)	
 1	
 Two Sum    		45.1%	Easy	
 103	
