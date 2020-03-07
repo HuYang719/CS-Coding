@@ -72,8 +72,10 @@ First Missing Positive    		30.8%	Hard
 
  note 21:注意一下新建一个ListNode写法
 
-958	
-Check Completeness of a Binary Tree    		51.2%	Medium	
+
+~~958	Check Completeness of a Binary Tree    		51.2%	Medium~~
+note 958: **需要重新复习，Level1** (hint:BFS+设定标志seennull)
+
 286	
 Walls and Gates    		52.3%	Medium	
 79	
