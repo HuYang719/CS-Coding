@@ -169,7 +169,8 @@ note 415: WA了一次，值得注意
 note 83:注意一个末尾小的细节
 
 
-124	Binary Tree Maximum Path Sum    		32.3%	Hard	
+~~124	Binary Tree Maximum Path Sum    		32.3%	Hard~~
+note 124: 挺有意思的一道题目，不难，但需反复复习 ***Level 1*	
 
 152	Maximum Product Subarray    		30.8%	Medium	
 
