@@ -83,7 +83,9 @@ note 143: 自己只做出了O(N^2)的做法，非最优解,**需要重新写几�
 2	Add Two Numbers    		32.8%	Medium	
 
 
-236	Lowest Common Ancestor of a Binary Tree     		42.6%	Medium	
+~~236	Lowest Common Ancestor of a Binary Tree     		42.6%	Medium~~
+
+note 160: 练习递归和树的很不错的一道题，需要及时复习，**Level 1**	
 
 
 3	Longest Substring Without Repeating Characters    		29.6%	Medium
@@ -170,7 +172,7 @@ note 83:注意一个末尾小的细节
 
 
 ~~124	Binary Tree Maximum Path Sum    		32.3%	Hard~~
-note 124: 挺有意思的一道题目，不难，但需反复复习 ***Level 1*	
+note 124: 挺有意思的一道题目，不难，但需反复复习 **Level 1**	
 
 152	Maximum Product Subarray    		30.8%	Medium	
 
