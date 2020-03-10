@@ -57,7 +57,9 @@ note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
 	
-71 Simplify Path     		31.1%	Medium	
+~~71 Simplify Path     		31.1%	Medium~~
+
+note 71: 注意使用vector的pop_back用法和string的substr用法，**注意弹出前要判断是否为空**。	
 
 
 

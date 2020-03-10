@@ -23,6 +23,8 @@ public:
         swap(store_index, right); //right此时为pivot
         return store_index;
     }
+    // right = pivot + store_index, right
+    // 
     
     int quickselect(int left, int right, int k_smallest) {
         if (left == right)
