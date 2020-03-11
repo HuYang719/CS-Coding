@@ -29,10 +29,12 @@ note: 这题感觉有点搞笑，使用两次rand7后，按照1-10依次进行�
 
 	
 1057 Campus Bikes    		58.3%	Medium	
+
 note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
-670	 Maximum Swap    		41.7%	Medium	
+~~670	 Maximum Swap    		41.7%	Medium~~
+note 670: 此题非常好，用到了一些int string之类转换的函数，需及时复习**Level 1**
 
 	
 31 Next Permutation    		31.8%	Medium	
