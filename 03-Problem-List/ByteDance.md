@@ -122,7 +122,9 @@ note 21:注意一下新建一个ListNode写法
 note 958: **需要重新复习，Level1** (hint:BFS+设定标志seennull)
 
 
-286	Walls and Gates    		52.3%	Medium	
+~~286	Walls and Gates    		52.3%	Medium~~	
+
+note 286: 有点疑惑更新的地方，晚上请教下xxx
 
 
 79	Word Search    		33.7%	Medium	
