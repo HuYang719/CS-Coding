@@ -161,7 +161,9 @@ note 53: 没有一开始想到方法，和dp的思想有点像，需要及时复
 note 232: 采用了两个stack，第二个用于调整顺序
 
 
-209	Minimum Size Subarray Sum    		36.7%	Medium	
+~~209	Minimum Size Subarray Sum    		36.7%	Medium~~
+
+note 209: 方法比较巧妙，双指针，及时复习,**Level 1**	
 
 
 15	3Sum    		25.7%	Medium	
