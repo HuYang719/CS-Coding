@@ -13,6 +13,8 @@ note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可�
 
 1202	Smallest String With Swaps    		43.9%	Medium	
 
+note 1202： 需要采用union find做，放到后面写blog
+
 
 	
 25 Reverse Nodes in k-Group    		39.6%	Hard	
@@ -37,7 +39,8 @@ note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
 
-445	 Add Two Numbers II    		52.8%	Medium	
+~~445	 Add Two Numbers II    		52.8%	Medium~~
+note: 注意下用diff的写法更方便进行判断	
 
 
 
