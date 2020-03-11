@@ -30,7 +30,7 @@ note: 这题感觉有点搞笑，使用两次rand7后，按照1-10依次进行�
 	
 1057 Campus Bikes    		58.3%	Medium	
 
-note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
+note 1057: 还是不懂，不理解[要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
 ~~670	 Maximum Swap    		41.7%	Medium~~
