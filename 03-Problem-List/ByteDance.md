@@ -40,7 +40,7 @@ note 1057: [要用桶排序](https://www.youtube.com/watch?v=R5OzU68vTKs)
 
 
 ~~445	 Add Two Numbers II    		52.8%	Medium~~
-note: 注意下用diff的写法更方便进行判断	
+note 445: 注意下用diff的写法更方便进行判断	
 
 
 
@@ -52,7 +52,8 @@ note: 注意下用diff的写法更方便进行判断
 
 
 
-777	Swap Adjacent in LR String    		34.7%	Medium	
+~~777	Swap Adjacent in LR String    		34.7%	Medium~~
+note 777: 做法有点意思，可以再复习一下	
 
 
 	
