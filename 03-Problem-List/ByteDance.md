@@ -11,7 +11,7 @@ note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可�
 42	Trapping Rain Water    		46.9%	Hard	
 
 
-1202	Smallest String With Swaps    		43.9%	Medium	
+**1202	Smallest String With Swaps    		43.9%	Medium**	
 
 note 1202： 需要采用union find做，放到后面写blog
 
