@@ -133,7 +133,9 @@ note 286: 有点疑惑更新的地方，晚上请教下xxx
 
 note 314: **需要重新复习，Level1** (hint:采用map<int,vector<int>>和queue<pair<int, TreeNode*>>+bfs)	
 
-1	Two Sum    		45.1%	Easy	
+~~1	Two Sum    		45.1%	Easy~~
+
+note 1: 用到了hash map存储，可以一次循环做完	
 
 
 
