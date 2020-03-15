@@ -92,7 +92,9 @@ note 215: 取巧用了个sort函数，需要多复习一下quickselect的方法
  note 160: 需要注意一下两种解题方法以及List的用法
 
 
-2	Add Two Numbers    		32.8%	Medium	
+~~2	Add Two Numbers    		32.8%	Medium~~
+
+note 2: 自己的写法比较复杂，最好复习时看一下昂写的方法	
 
 
 ~~236	Lowest Common Ancestor of a Binary Tree     		42.6%	Medium~~
