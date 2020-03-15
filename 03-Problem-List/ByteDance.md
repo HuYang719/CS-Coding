@@ -81,7 +81,9 @@ note 143: 自己只做出了O(N^2)的做法，非最优解,**需要重新写几�
 note 215: 取巧用了个sort函数，需要多复习一下quickselect的方法
 
 	
-54  Spiral Matrix    		32.8%	Medium	
+~~54  Spiral Matrix    		32.8%	Medium~~
+
+note 54: 搞定!注意为空的时候重新判断
 
 
 11	 Container With Most Water    		49.0%	Medium	
