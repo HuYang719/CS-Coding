@@ -102,7 +102,8 @@ note 2: 自己的写法比较复杂，最好复习时看一下昂写的方法
 note 160: 练习递归和树的很不错的一道题，需要及时复习，**Level 1**	
 
 
-3	Longest Substring Without Repeating Characters    		29.6%	Medium
+~~3	Longest Substring Without Repeating Characters    		29.6%	Medium~~
+note 3: 比较巧妙，及时复习
 
 
 
