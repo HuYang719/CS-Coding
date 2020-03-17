@@ -37,7 +37,9 @@ note 1057: 还是不懂，不理解[要用桶排序](https://www.youtube.com/wat
 note 670: 此题非常好，用到了一些int string之类转换的函数，需及时复习**Level 1**
 
 	
-31 Next Permutation    		31.8%	Medium	
+~~31 Next Permutation    		31.8%	Medium~~
+
+note 31: 注意O(n)的做法，找到非递增的点，再往回找的方法
 
 
 
