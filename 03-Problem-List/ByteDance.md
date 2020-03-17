@@ -179,7 +179,7 @@ note 232: 采用了两个stack，第二个用于调整顺序
 note 209: 方法比较巧妙，双指针，及时复习,**Level 1**	
 
 
-15	3Sum    		25.7%	Medium	
+~~15	3Sum    		25.7%	Medium~~	
 	
 ~~415	Add Strings    		46.0%	Easy~~
 
