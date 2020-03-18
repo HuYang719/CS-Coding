@@ -225,18 +225,19 @@ note 104: 和543思想一样
 ~~73	Set Matrix Zeroes    		42.1%	Medium~~	
 
 
-134
+134	Gas Station    		36.8%	Medium
 
-136
+136	Single Number    		63.1%	Easy
 
-137
+137	Single Number II    		48.7%	Medium
 
 322	Coin Change    		33.8%	Medium	
 
 
-328
+328	Odd Even Linked List    		52.3%	Medium
 
-496
+~~496	Next Greater Element I    		62.3%	Easy~~
+note 496: 用到了栈来求next greater元素
 
 ~~716	Max Stack    		42.1%	Easy~~
 note 716: 注意用一个stack只保存最大值，最后pop的时候可以直接调用内部函数，完成对max_stack的更新。 	
