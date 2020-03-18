@@ -8,7 +8,7 @@ Title	Solution	Acceptance	Difficulty	Frequency
 note 1262: 此题还可以采用DP的方法做。普通方法稍巧妙，但可想出
 
 
-42	Trapping Rain Water    		46.9%	Hard	
+~~42	Trapping Rain Water    		46.9%	Hard~~	
 
 
 **1202	Smallest String With Swaps    		43.9%	Medium**	
@@ -61,7 +61,8 @@ note 777: 做法有点意思，可以再复习一下
 
 
 	
-33  Search in Rotated Sorted Array    		33.6%	Medium	
+~~33  Search in Rotated Sorted Array    		33.6%	Medium~~	
+note 33: 先确定好mid的所在区间，再分类。考虑好等于的时候。
 
 
 	
