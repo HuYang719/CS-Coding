@@ -218,3 +218,32 @@ note: 采用 dp的方法做的
 ~~104	 Maximum Depth of Binary Tree    		64.1%	Easy~~	
 
 note 104: 和543思想一样
+
+73	Set Matrix Zeroes    		42.1%	Medium	
+
+
+134
+
+136
+
+137
+
+322	Coin Change    		33.8%	Medium	
+
+
+328
+
+496
+
+~~716	Max Stack    		42.1%	Easy~~
+note 716: 注意用一个stack只保存最大值，最后pop的时候可以直接调用内部函数，完成对max_stack的更新。 	
+
+
+860	Lemonade Change    		51.1%	Easy	
+
+
+862	Shortest Subarray with Sum at Least K    		23.3%	Hard	
+
+
+
+
