@@ -161,7 +161,9 @@ note 206: 和标准做法还不太一样，复习的时候用交换的方式做
 note 53: 没有一开始想到方法，和dp的思想有点像，需要及时复习	
 
 
-347	Top K Frequent Elements    		59.0%	Medium	
+~~347	Top K Frequent Elements    		59.0%	Medium~~
+
+note 347: 采用了最大堆，了解priority_queue<pair<int, int>>的排列方法，了解最小堆priority_queue<int, vector<int>, greater<int>>的写法。
 
 ~~695	Max Area of Island    		60.5%	Medium~~
 
