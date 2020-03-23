@@ -224,17 +224,26 @@ note 104: 和543思想一样
 
 ~~73	Set Matrix Zeroes    		42.1%	Medium~~	
 
+131
 
-134	Gas Station    		36.8%	Medium
+132
 
-136	Single Number    		63.1%	Easy
+~~134	Gas Station    		36.8%	Medium~~
+
+note 134: 比较神奇，直接从j开始走，注意正积累
+
+~~136	Single Number    		63.1%	Easy~~
+
+note 136: 异或
 
 137	Single Number II    		48.7%	Medium
 
 322	Coin Change    		33.8%	Medium	
 
 
-328	Odd Even Linked List    		52.3%	Medium
+~~328	Odd Even Linked List    		52.3%	Medium~~
+
+note 328: 可以再好好想一下，even要知道的只是它的next。
 
 ~~496	Next Greater Element I    		62.3%	Easy~~
 note 496: 用到了栈来求next greater元素
