@@ -1,7 +1,8 @@
 # CS-Coding
 
-Practice for Coding Test
+Practice for Coding and Algorithm
 
-- Record.md
-- 00-Offer Problems
+- 00-Problems of Book: Crack the Interview
 - 01-Leetcode Problems
+- 02-Week VIP Plan
+- 03-Problem list of Tech Companys
