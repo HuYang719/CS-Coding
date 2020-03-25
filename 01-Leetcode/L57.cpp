@@ -21,7 +21,7 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> res;
         int pre = 0;
-        int i = 0;
+        int i = 0; 
         bool has_push = false;
         for(; i < intervals.size(); i++) {
             if(intervals[i][0] < newInterval[0] && intervals[i][1] < newInterval[0]) {
@@ -30,7 +30,7 @@ public:
                 int front = intervals[i][0];
                 int end = findend(intervals, i, newInterval);
                 // cout<<"i="<<i<<endl;
-                if(end ==  newInterval[1])
+                if(end == newInterval[1])
                     res.push_back({front, end});
                 else{
                     res.push_back({front, end});
