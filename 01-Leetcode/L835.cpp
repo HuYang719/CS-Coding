@@ -1,12 +1,21 @@
-class Solution(object):
-    def largestOverlap(self, A, B):
-        N = len(A)
-        count = collections.Counter()
-        for i, row in enumerate(A):
-            for j, v in enumerate(row):
-                if v:
-                    for i2, row2 in enumerate(B):
-                        for j2, v2 in enumerate(row2):
-                            if v2:
-                                count[i-i2, j-j2] += 1
-        return max(count.values() or [0])
+class Solution {
+public:
+    int largestOverlap(vector<vector<int>>& A, vector<vector<int>>& B) {
+        int res = 0, n = A.size();
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                res = max(res, max(count(A, B, i, j), count(B, A, i, j)));
+            }
+        }
+        return res;
+    }
+    int count(vector<vector<int>>& A, vector<vector<int>>& B, int rowOffset, int colOffset) {
+        int sum = 0, n = A.size();
+        for (int i = rowOffset; i < n; ++i) {
+            for (int j = colOffset; j < n; ++j) {
+                sum += A[i][j] * B[i - rowOffset][j - colOffset];
+            }
+        }
+        return sum;
+    }
+};
