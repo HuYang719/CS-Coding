@@ -10,15 +10,14 @@ public:
             ans_l *= n;
             left.push_back(ans_l);
         }
-        for(int i = nums.size()-2; i >= 0; i--) {
-            ans_r *= nums[i+1]; 
-            right[i] = ans_r;
+        left.pop_back();
+        for(int i = nums.size()-1; i >= 0; i--) {
+            left[i] = left[i]*ans_r;
+            ans_r *= nums[i]; 
         }
       
-        for(int i = 0; i < nums.size(); i++) {
-            nums[i] = left[i]*right[i];
-        }
-        return nums;
+      
+        return left;
         
     }
 };
