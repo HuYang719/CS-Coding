@@ -23,6 +23,8 @@ public:
         //         v.push_back(abs(nums[j]-nums[i]));
         //     }
         // }
+        
+    
         sort(nums.begin(), nums.end());
         while(l<r) {
             int mid = l + (r-l)/2;
