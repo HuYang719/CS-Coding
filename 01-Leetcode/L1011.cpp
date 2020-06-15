@@ -1,4 +1,4 @@
-class Solution {
+calass Solution {
 public:
     int shipWithinDays(vector<int>& weights, int D) {
         int min_cap = 0;
